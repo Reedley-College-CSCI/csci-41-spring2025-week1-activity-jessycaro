@@ -69,5 +69,7 @@ int main()
         cout << doubleTable[count] << " ";
     cout << endl;
 
+    cout << "Hello";
+
     return 0;
 }
